@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.note {
+  background-color: blanchedalmond;
+  margin-bottom: 10px;
+  border-radius: 7px;
+  cursor: pointer;
+  padding: 1rem;
+  min-height: 200px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+
+}
