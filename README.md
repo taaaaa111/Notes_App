@@ -5,7 +5,7 @@
 ![Enregistrement de l’écran 2022-05-10 à 18 28 51 2](https:XXXXX.gif)
 
 In the project directory, you can run:
-
+### `npm install`
 ### `npm start`
 
 Runs the app in the development mode.\
